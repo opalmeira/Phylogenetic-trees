@@ -1,7 +1,7 @@
 # Phylogenetic-trees
 Updating a phylogenetic tree within a json file
 
-This is a sample script to update a phylogenetic tree within a json file.\
+This is a sample script to update a phylogenetic tree within a json file to be visualized on Auspice Nextstrain.\
 The mission here is to add a key-value pair in a specific branch of the tree where the node has the tenth highest number of descendants.
 
 **Input files:** tree.nwk and file.json\
